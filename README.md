@@ -1,2 +1,3 @@
 # My-New-repository
-For codes,commands reference
+My First project on github
+AWS CLI Commands
